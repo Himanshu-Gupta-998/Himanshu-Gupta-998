@@ -75,6 +75,8 @@ himanshu = {
   </tr>
 </table>
 
+> ⚠️ **Note:** If the repo cards above show broken images, it means the repos are currently private. Make them public on GitHub to auto-render stat cards here.
+
 </div>
 
 ---
@@ -130,9 +132,15 @@ himanshu = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Gupta-998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=6366f1&cache_seconds=1800" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himanshu-Gupta-998&theme=tokyonight" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Gupta-998&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&border_color=6366f1&cache_seconds=1800" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himanshu-Gupta-998&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himanshu-Gupta-998&theme=tokyonight" />
 
 </div>
 
@@ -142,7 +150,7 @@ himanshu = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Himanshu-Gupta-998&theme=tokyonight&border_radius=10&border=6366f1&fire=f97316&ring=6366f1&currStreakLabel=6366f1&cache_seconds=1800)](https://github.com/Himanshu-Gupta-998)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Himanshu-Gupta-998&theme=tokyonight&border_radius=10&border=6366f1&fire=f97316&ring=6366f1&currStreakLabel=6366f1)](https://github.com/Himanshu-Gupta-998)
 
 </div>
 
@@ -152,17 +160,17 @@ himanshu = {
 
 <div align="center">
 
-[![Himanshu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-Gupta-998&bg_color=1a1b27&color=6366f1&line=6366f1&point=f97316&area=true&area_color=6366f1&hide_border=false&border_color=6366f1&custom_title=Himanshu%27s%20Contribution%20Graph)](https://github.com/Himanshu-Gupta-998)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Himanshu-Gupta-998&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Himanshu-Gupta-998&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&column=7)](https://github.com/Himanshu-Gupta-998)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Himanshu-Gupta-998&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/Himanshu-Gupta-998)
 
 </div>
 
