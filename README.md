@@ -1,159 +1,123 @@
 <div align="center">
 
-# Hey there, I'm Himanshu Gupta 👋
+Hey there, I'm Himanshu Gupta 👋
 
-### AI Engineer · ML Enthusiast · Builder
+AI Engineer · ML Enthusiast · Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Exploring+RAG+Systems+%26+LLMs;Python+%7C+ML+%7C+Deep+Learning;Always+curious%2C+always+learning...)](https://git.io/typing-svg)
+<p>
+  <a href="https://github.com/Himanshu-Gupta-998">
+    <img src="https://img.shields.io/github/followers/Himanshu-Gupta-998?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/Himanshu-Gupta-998?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Himanshu-Gupta-998?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Himanshu-Gupta-998&label=Profile%20Views&style=for-the-badge" alt="Profile views">
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Himanshu-Gupta-998&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-```python
-himanshu = {
-    "role"      : "AI Engineer",
-    "location"  : "New Delhi, India 🇮🇳",
-    "education" : "BCA @ IITM Janakpuri (GGSIPU)",
-    "focus"     : ["RAG Systems", "LLMs", "AI Automation"],
-    "skills"    : ["Python", "Machine Learning", "Deep Learning", "MySQL"],
-    "projects"  : ["ENIGMA-AI", "VisionDetect"],
-    "fun_fact"  : "I am always curious to learn...",
-    "reach_me"  : "himanshugupta19910@gmail.com"
-}
-```
-
----
-
-## 🔭 What I'm Up To
-
-- 🛠️ Building **[VisionDetect](https://github.com/Himanshu-Gupta-998/VisionDetect)** — a computer vision detection project
-- 🤝 Collaborating on **[ENIGMA-AI](https://github.com/Himanshu-Gupta-998/ENIGMA-AI)** — AI-powered document & website analyzer
-- 🌱 Currently learning **RAG Systems · AI Automation · LLMs**
-- 💬 Ask me about **Python · MySQL · Machine Learning · Deep Learning**
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![ENIGMA-AI](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-Gupta-998&repo=ENIGMA-AI&theme=tokyonight&border_radius=10&border_color=6366f1)](https://github.com/Himanshu-Gupta-998/ENIGMA-AI)
-&nbsp;&nbsp;
-[![VisionDetect](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-Gupta-998&repo=VisionDetect&theme=tokyonight&border_radius=10&border_color=6366f1)](https://github.com/Himanshu-Gupta-998/VisionDetect)
+<p>
+  <a href="mailto:himanshugupta19910@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/himanshu-gupta/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.leetcode.com/himanshugupta_01">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</p>
 
 </div>
 
----
+👨‍💻 About Me
 
-## 🛠️ Tech Stack
+I'm an aspiring AI & Machine Learning Engineer who enjoys turning ideas into practical, useful software.
 
-<div align="center">
+🔭 Currently building VisionDetect — real-time object detection with YOLOv8, OpenCV and Streamlit.
 
-**Languages**
+🤝 Collaborating on ENIGMA-AI — an AI-powered document & website analyzer.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+🌱 Currently learning RAG Systems, AI Automation and LLMs.
 
-**AI / ML**
+💬 Ask me about Python, MySQL, Machine Learning and Deep Learning.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🎯 Interested in building AI-powered applications that solve real-world problems.
 
-**Databases**
+⚡ Fun fact: I'm always curious to learn.
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+🚀 Featured Projects
 
-**Cloud & DevOps**
+<p align="center">
+  <a href="https://github.com/Himanshu-Gupta-998/VisionDetect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-Gupta-998&repo=VisionDetect&theme=transparent&hide_border=true" alt="VisionDetect">
+  </a>
+  <a href="https://github.com/Himanshu-Gupta-998/ENIGMA-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-Gupta-998&repo=ENIGMA-AI&theme=transparent&hide_border=true" alt="ENIGMA-AI">
+  </a>
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://github.com/Himanshu-Gupta-998?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories">
+  </a>
+</p>
 
-**Tools & Design**
+📊 GitHub Analytics
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Gupta-998&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=transparent&rank_icon=github" alt="Himanshu's GitHub statistics">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Gupta-998&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Himanshu's top languages">
+</p>
 
-</div>
+⭐ Stars earned, commits, pull requests, issues and contributions are automatically reflected in the GitHub statistics card above.
 
----
+🔥 Contribution Streak
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Himanshu-Gupta-998&theme=transparent&hide_border=true" alt="Himanshu's GitHub contribution streak">
+</p>
 
-<div align="center">
+📈 Contribution Activity & Commit Graph
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Gupta-998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=6366f1&hide_border=false" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Gupta-998&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&border_color=6366f1&hide_border=false" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-Gupta-998&theme=github-compact&hide_border=true&area=true" alt="Himanshu's GitHub activity graph">
+</p>
 
-</div>
+<p align="center">
+  <sub>Last 31 days of GitHub activity · commits · issues · pull requests and other contributions</sub>
+</p>
 
----
+🧠 What I'm Learning
 
-## 🔥 Contribution Streak
+Artificial Intelligence
+├── Machine Learning
+├── Deep Learning
+├── Computer Vision
+├── Large Language Models
+├── RAG Systems
+└── AI Automation
 
-<div align="center">
+Software Engineering
+├── Python
+├── SQL / MySQL
+├── Git & GitHub
+├── Docker
+└── APIs & Application Development
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Gupta-998&theme=tokyonight&border_radius=10&border=6366f1&fire=f97316&ring=6366f1&currStreakLabel=6366f1)](https://github.com/Himanshu-Gupta-998)
+🛠️ Tools I Work With
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,mongodb,postgres,pytorch,tensorflow,opencv,sklearn,pandas,numpy,git,github,docker,kubernetes,linux,aws,gcp,postman&perline=11" alt="Technologies">
+</p>
 
----
+🤝 Let's Connect
 
-## 📈 Contribution Activity
+<p align="center">
+  <a href="mailto:himanshugupta19910@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/himanshu-gupta/">LinkedIn</a> ·
+  <a href="https://www.leetcode.com/himanshugupta_01">LeetCode</a> ·
+  <a href="https://github.com/Himanshu-Gupta-998">GitHub</a>
+</p>
 
-<div align="center">
-
-[![Himanshu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-Gupta-998&theme=tokyo-night&hide_border=false&border_color=6366f1&line=6366f1&point=f97316&area=true&area_color=6366f133)](https://github.com/Himanshu-Gupta-998)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Himanshu-Gupta-998&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&row=1)](https://github.com/Himanshu-Gupta-998)
-
-</div>
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-gupta)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/himanshu.gupta._)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/himanshugupta_01)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshugupta19910@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"The best way to predict the future is to build it."*
-
-</div>
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</p>
