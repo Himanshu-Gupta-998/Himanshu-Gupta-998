@@ -75,8 +75,6 @@ himanshu = {
   </tr>
 </table>
 
-> ⚠️ **Note:** If the repo cards above show broken images, it means the repos are currently private. Make them public on GitHub to auto-render stat cards here.
-
 </div>
 
 ---
