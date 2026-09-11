@@ -1,36 +1,159 @@
-<h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
-<h3 align="center">A passionate AI Engineer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-gupta-998&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-gupta-998" /> </p>
+# Hey there, I'm Himanshu Gupta 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu-gupta-998" alt="himanshu-gupta-998" /></a> </p>
+### AI Engineer · ML Enthusiast · Builder
 
-- 🔭 I’m currently working on [Vision Detect](https://github.com/Himanshu-Gupta-998/VisionDetect)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Exploring+RAG+Systems+%26+LLMs;Python+%7C+ML+%7C+Deep+Learning;Always+curious%2C+always+learning...)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **RAG-Systems, AI Automation, LLMs,**
+<img src="https://komarev.com/ghpvc/?username=Himanshu-Gupta-998&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
-- 👯 I’m looking to collaborate on [ENIGMA-AI](https://github.com/Himanshu-Gupta-998/ENIGMA-AI)
+</div>
 
-- 🤝 I’m looking for help with [ENIGMA-AI](https://github.com/Himanshu-Gupta-998/ENIGMA-AI)
+---
 
-- 💬 Ask me about **Python, MYsql, Machine learning,Deep learning**
+## 🚀 About Me
 
-- 📫 How to reach me **himanshugupta19910@gmail.com**
+```python
+himanshu = {
+    "role"      : "AI Engineer",
+    "location"  : "New Delhi, India 🇮🇳",
+    "education" : "BCA @ IITM Janakpuri (GGSIPU)",
+    "focus"     : ["RAG Systems", "LLMs", "AI Automation"],
+    "skills"    : ["Python", "Machine Learning", "Deep Learning", "MySQL"],
+    "projects"  : ["ENIGMA-AI", "VisionDetect"],
+    "fun_fact"  : "I am always curious to learn...",
+    "reach_me"  : "himanshugupta19910@gmail.com"
+}
+```
 
-- ⚡ Fun fact **I am always curious to learn...**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himanshu gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/himanshu.gupta._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu.gupta._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/himanshugupta_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshugupta_01" height="30" width="40" /></a>
-</p>
+## 🔭 What I'm Up To
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+- 🛠️ Building **[VisionDetect](https://github.com/Himanshu-Gupta-998/VisionDetect)** — a computer vision detection project
+- 🤝 Collaborating on **[ENIGMA-AI](https://github.com/Himanshu-Gupta-998/ENIGMA-AI)** — AI-powered document & website analyzer
+- 🌱 Currently learning **RAG Systems · AI Automation · LLMs**
+- 💬 Ask me about **Python · MySQL · Machine Learning · Deep Learning**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-gupta-998&show_icons=true&locale=en&layout=compact" alt="himanshu-gupta-998" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-gupta-998&show_icons=true&locale=en" alt="himanshu-gupta-998" /></p>
+## 🌟 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-gupta-998&" alt="himanshu-gupta-998" /></p>
+<div align="center">
+
+[![ENIGMA-AI](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-Gupta-998&repo=ENIGMA-AI&theme=tokyonight&border_radius=10&border_color=6366f1)](https://github.com/Himanshu-Gupta-998/ENIGMA-AI)
+&nbsp;&nbsp;
+[![VisionDetect](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-Gupta-998&repo=VisionDetect&theme=tokyonight&border_radius=10&border_color=6366f1)](https://github.com/Himanshu-Gupta-998/VisionDetect)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Tools & Design**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Gupta-998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=6366f1&hide_border=false" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Gupta-998&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&border_color=6366f1&hide_border=false" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Gupta-998&theme=tokyonight&border_radius=10&border=6366f1&fire=f97316&ring=6366f1&currStreakLabel=6366f1)](https://github.com/Himanshu-Gupta-998)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Himanshu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-Gupta-998&theme=tokyo-night&hide_border=false&border_color=6366f1&line=6366f1&point=f97316&area=true&area_color=6366f133)](https://github.com/Himanshu-Gupta-998)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Himanshu-Gupta-998&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&row=1)](https://github.com/Himanshu-Gupta-998)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-gupta)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/himanshu.gupta._)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/himanshugupta_01)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshugupta19910@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to build it."*
+
+</div>
